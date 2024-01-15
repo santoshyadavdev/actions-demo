@@ -7,5 +7,5 @@ inputs:
     description: 'input description here'
     default: 'https://dev.to/feed/santoshyadavdev'
 runs:
-  using: 'node16'
+  using: 'node18'
   main: 'dist/index.js'
